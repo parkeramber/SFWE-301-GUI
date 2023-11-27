@@ -1,0 +1,22 @@
+Name: 
+User Name: 
+Password: 
+Organization: 
+Reviewer: false
+Seward: false
+Affiliated Scholarships: 
+Admin: false
+ID Number: 
+Email: 
+
+Name: 
+User Name: 
+Password: 
+Organization: 
+Reviewer: true
+Seward: false
+Affiliated Scholarships: 
+Admin: false
+ID Number: 
+Email: 
+

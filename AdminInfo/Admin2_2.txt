@@ -1,0 +1,13 @@
+Name: John
+User Name: Admin2
+Password: 2
+Organization: Org.
+Reviewer: false
+Seward: true
+Affiliated Scholarships: One 
+Two
+Three
+Admin: false
+ID Number: 1987547
+Email: @something.com
+

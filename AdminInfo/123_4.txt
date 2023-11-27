@@ -1,0 +1,11 @@
+Name: Ryan
+User Name: 123
+Password: 4
+Organization: 
+Reviewer: false
+Seward: false
+Affiliated Scholarships: 
+Admin: false
+ID Number: 
+Email: 
+

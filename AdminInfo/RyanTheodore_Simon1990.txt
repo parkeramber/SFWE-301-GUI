@@ -1,0 +1,13 @@
+Name: Ryan Theodore
+User Name: RyanTheodore
+Password: Simon1990
+Organization: Org
+Reviewer: false
+Seward: false
+Affiliated Scholarships: Scholarship 1
+Scholarship 2
+Scholarship 3
+Admin: true
+ID Number: 16897457
+Email: @gmail.com
+

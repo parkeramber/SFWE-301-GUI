@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane style="-fx-background-color: #001166;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ViewScholarshipsController">
+    <children>
+        <TableView fx:id="tableView" layoutX="10" layoutY="119.0" prefHeight="291.0" prefWidth="800">
+            <columns>
+                <TableColumn fx:id="columnName" text="Name" />
+                <TableColumn fx:id="columnAmount" text="Amount" />
+                <TableColumn fx:id="columnSponsor" text="Sponsor" />
+                <TableColumn fx:id="columnEmail" text="Email" />
+                <TableColumn fx:id="columnMinGPA" text="Min GPA" />
+                <TableColumn fx:id="columnAwardFreq" text="Award Frequency" />
+            </columns>
+        </TableView>
+        <Button layoutX="820" layoutY="10" onAction="#applyForScholarship" text="Apply" />
+        <Button layoutX="820" layoutY="50" onAction="#goBack" text="Back" />
+      <ImageView fitHeight="106.0" fitWidth="165.0" layoutX="-18.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Arizona-Wildcats-Logo.png" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>

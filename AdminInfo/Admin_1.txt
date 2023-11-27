@@ -1,0 +1,15 @@
+Name: 
+User Name: Admin
+Password: 1
+Gender: 
+Major: 
+Minor: 
+Year of Study: 
+Graduation Date: 
+GPA: 
+Transfer Student: false
+Student ID: 
+Email: 
+Enrolled Units: 
+Citizenship: 
+Personal Statement: 

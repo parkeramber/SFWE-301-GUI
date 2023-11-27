@@ -1,0 +1,11 @@
+Name: lou
+User Name: lop
+Password: 1
+Organization: lopside
+Reviewer: false
+Seward: true
+Affiliated Scholarships: 
+Admin: false
+ID Number: 156487
+Email: @
+

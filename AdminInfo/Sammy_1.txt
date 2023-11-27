@@ -1,0 +1,11 @@
+Name: 
+User Name: Sammy
+Password: 1
+Organization: 
+Reviewer: false
+Seward: false
+Affiliated Scholarships: 
+Admin: false
+ID Number: 
+Email: 
+

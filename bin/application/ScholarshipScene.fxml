@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" style="-fx-background-color: #001166;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ScholarshipController">
+    <children>
+
+        <!-- Buttons in a line to the right of the image -->
+        <Button fx:id="searchButton" layoutX="167.0" layoutY="76.0" onAction="#handleSearch" prefHeight="25.0" prefWidth="179.0" text="Search Scholarships and apply" wrapText="true" />
+        <Button fx:id="statusButton" layoutX="34.0" layoutY="76.0" onAction="#handleStatus" text="Scholarship Status" />
+        
+        <!-- New Edit Profile Button -->
+        <Button fx:id="editProfileButton" layoutX="364.0" layoutY="76.0" onAction="#handleEditProfile" text="Edit Profile" />
+        
+        <!-- Log Off Button -->
+        <Button fx:id="logOffButton" layoutX="438.0" layoutY="457.0" onAction="#handleLogOff" text="Log Off" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="157.0" layoutY="173.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Arizona-Wildcats-Logo.png" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>
